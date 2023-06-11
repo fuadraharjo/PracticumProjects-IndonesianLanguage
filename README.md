@@ -1,6 +1,8 @@
-# Versi-Indonesia
+# PracticumProjects-IndonesianLanguage
 
-Disini berisi penjelasan Projek secara lengkap
+Berisi kumpulan projek yang sudah dikerjakan berasal dari tugas projek Online Bootcamp Practicum Indonesia - Data Scientist berbahasa Indonesia
+
+Dataset berasal dari platform 
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | ------- | ------- | ------- |
