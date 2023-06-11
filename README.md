@@ -1,11 +1,15 @@
-# PracticumProjects-IndonesianLanguage
+# Projek-projek Practicum dalam Bahasa Indonesia
 
-Berisi kumpulan projek yang sudah dikerjakan berasal dari tugas projek Online Bootcamp Practicum Indonesia - Data Scientist berbahasa Indonesia
+Berisi kumpulan projek yang sudah dikerjakan dari tugas *`Sprint Project`* `[Online Bootcamp Practicum Indonesia - Data Scientist berbahasa Indonesia]`. Projek ini berisi berbagai jenis analisis hingga prediksi, mulai dari `Pra-pemrosesan Data`, `Visualisasi`, `Uji Statistik`, `Uji Hipotesis`, `Model Prediksi`, `Uji Skor Model`, dan lain sebagainya.
 
-Dataset berasal dari platform 
+Silahkan untuk dipilih atau bisa menggunakan direktori diatas:
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
+| Projek | Deskripsi | modul |
 | ------- | ------- | ------- |
-| Baris 1, Kolom 1 | Baris 1, Kolom 2 | Baris 1, Kolom 3 |
-| Baris 2, Kolom 1 | Baris 2, Kolom 2 | Baris 2, Kolom 3 |
-
+| [Analisis Gagal Bayar Nasabah](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-1%20-%20Resiko%20Gagal%20Bayar/Analisis%20resiko%20gagal%20bayar%20-%20bank%20syariah.ipynb) | Mengetahui seberapa besar resiko `Gagal Bayar` nasabah berdasarkan kriteria: `Tingkat Pendapatan`, `Status Keluarga`, `Tujuan Cicilan` dan `Jumlah Anak` untuk menilai calon nasabah. | *pandas*, *numpy* |
+| [Faktor Penjualan Mobil](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-2%20-%20Faktor%20Penjualan%20Mobil/Faktor-faktor%20yang%20mempengaruhi%20harga%20penjualan%20mobil.ipynb) | Analisis faktor-faktor yang mempengaruhi harga penjualan mobil. Beberapa faktor diantaranya `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *numpy*, *matplotlib*, *seaborn* |
+| [Perbandingan Paket Prabayar](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-3%20-%20Perbandingan%20Paket%20Prabayar/Studi%20perbandingan%20paket%20prabayar%20surf%20dan%20ultimate.ipynb) | Departemen periklanan perusahaan `Megaline` ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan, sehingga mereka bisa membuat anggaran iklan yang sesuai. Analisis dan Uji Hipotesis dilibatkan dalam projek ini. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |
+| [Penggunaan Trip Jasa Taksi](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-4%20-%20Penggunaan%20Trip%20Jasa/Analisis%20trip%20pengguna%20jasa%20taksi.ipynb) | Analisis preferensi pengguna taksi dari perusahaan Zuber terhadap beberapa faktor seperti `dropoff location`, `company name` dan uji hipotesis menggunakan *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy* |
+| [Model Prediksi Paket Seluler](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-5%20-%20Model%20Prediksi%20Paket%20Seluler/Model%20prediksi%20paket%20seluler%20pengguna%20menggunakan%20machine%20learning.ipynb) | Membuat model prediksi klasifikasi untuk menentukan paket seluler yang cocok untuk pelanggan menggunakan library dari *`scikit-learn`* | *pandas*, *sklearn* |
+| [Model Prediksi Churn Nasabah](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-6%20-%20Model%20Prediksi%20Churn%20Nasabah/Model%20prediksi%20churn%20nasabah%20bank%20menggunakan%20machine%20learning.ipynb) | Model prediksi klasifikasi untuk menentukan nasabah yang akan melakukan `churn` menggunakan modul `scikit-learn` serta penerapan teknik seperti `one hot encoding (OHE)`, `scaling features` dan `balancing target`. | *pandas*, *sklearn*, *matplotlib*, *seaborn* |
+| [Model Prediksi Lokasi Eksplorasi Sumur OilyGiant](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-7%20-%20Model%20Prediksi%20Lokasi%20Sumur%20Eksplorasi/Model%20Prediksi%20Lokasi%20Eksplorasi%20Sumur%20OilyGiant.ipynb) | Analisis bisnis untuk mengurangi risiko kerugian dalam pencarian lokasi sumur eksplorasi menggunakan `machine learning` dan teknik `bootstrapping`. | *pandas*, *numpy* *sklearn*, *matplotlib*, *seaborn* |
