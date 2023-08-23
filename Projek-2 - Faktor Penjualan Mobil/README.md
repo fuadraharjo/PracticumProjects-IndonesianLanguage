@@ -15,3 +15,7 @@ Beberapa hipotesis yang diajukan untuk mengetahui `Faktor Harga Jual Mobil` dian
 - Apakah benar mobil `suv` dengan tipe transmisi `manual` memiliki harga jual yang tinggi dibandingkan dengan tipe transmisi lain?
 - Apakah benar mobil `sedan` dengan tipe warna `merah` memiliki harga jual yang tinggi dibandingkan dengan warna lain?
 - Apakah benar mobil `suv` dengan tipe warna `orange` memiliki harga jual yang tinggi dibandingkan dengan warna lain?
+
+| Projek | Deskripsi | modul |
+| ------- | ------- | ------- |
+| [Faktor Penjualan Mobil](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-2%20-%20Faktor%20Penjualan%20Mobil/Faktor-faktor%20yang%20mempengaruhi%20harga%20penjualan%20mobil.ipynb) | Analisis faktor-faktor yang mempengaruhi harga penjualan mobil. Beberapa faktor diantaranya `model_year`, `model`, `condition`, `cylinders`, `fuel`, `odometer`, `transmission`, `type`, `paint_color`, `is_4wd`. | *pandas*, *numpy*, *matplotlib*, *seaborn* |

@@ -8,3 +8,7 @@ Dataset yang berasal dari `OilyGiant` memiliki beberapa variabel yang mempengaru
 3. Wilayah mana yang cocok dijadikan lokasi `200 titik` explorasi sumur?
 4. Seberapa besar rata-rata `profit margin` untuk lokasi yang terpilih menggunakan teknik `bootstrapping`?
 5. Berapa `selang kepercercayaan` untuk lokasi tersebut dengan `tingkat keyakinan 95%`?
+
+| Projek | Deskripsi | modul |
+| ------- | ------- | ------- |
+| [Model Prediksi Lokasi Eksplorasi Sumur OilyGiant](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-7%20-%20Model%20Prediksi%20Lokasi%20Sumur%20Eksplorasi/Model%20Prediksi%20Lokasi%20Eksplorasi%20Sumur%20OilyGiant.ipynb) | Analisis bisnis untuk mengurangi risiko kerugian dalam pencarian lokasi sumur eksplorasi menggunakan `machine learning` dan teknik `bootstrapping`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |

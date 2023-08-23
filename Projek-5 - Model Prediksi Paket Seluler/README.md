@@ -12,3 +12,7 @@ Beberapa tujuan dan rumusan masalah dari analisis projek ini:
 - `Hyperparameter` terbaik seperti apa pada `model machine learning`
 - Apakah `model machine learning` yang dipilih bisa memenuhi uji kelayakan (`sanity check`)?
 - Benarkah `model machine learning` yang dipilih bisa menguji sampel data sembarang?
+
+| Projek | Deskripsi | modul |
+| ------- | ------- | ------- |
+| [Model Prediksi Paket Seluler](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-5%20-%20Model%20Prediksi%20Paket%20Seluler/Model%20prediksi%20paket%20seluler%20pengguna%20menggunakan%20machine%20learning.ipynb) | Membuat model prediksi klasifikasi untuk menentukan paket seluler yang cocok untuk pelanggan menggunakan library dari *`scikit-learn`*. | *pandas*, *sklearn* |

@@ -1,6 +1,6 @@
-# Projek-projek Practicum dalam Bahasa Indonesia
+# Projek-projek TripleTen dalam Bahasa Indonesia
 
-Berisi kumpulan projek yang sudah dikerjakan dari tugas *`Sprint Project`* `[Online Bootcamp Practicum Indonesia - Data Scientist berbahasa Indonesia]`. Projek ini berisi berbagai jenis analisis hingga prediksi, mulai dari `Pra-pemrosesan Data`, `Visualisasi`, `Uji Statistik`, `Uji Hipotesis`, `Model Prediksi`, `Uji Skor Model`, dan lain sebagainya.
+Berisi kumpulan projek yang sudah dikerjakan dari tugas *`Sprint Project`* `[Online Bootcamp TripleTen Indonesia - Data Scientist]`. Projek ini berisi berbagai jenis analisis hingga prediksi, mulai dari `Pra-pemrosesan Data`, `Visualisasi`, `Analisis Data Eksploratif (EDA)`, `Uji Statistik`, `Uji Hipotesis`, `Pembelajaran Mesin (Machine Learning)`, `Uji Skor Model`, `Visi Komputer`, `Aljabar Linier`, `Metode Numerik`, `Seri Waktu (Time Series)`, `Pemrosesan Bahasa Alami (NLP)` dan lain sebagainya.
 
 Silahkan untuk dipilih atau bisa menggunakan direktori diatas:
 
