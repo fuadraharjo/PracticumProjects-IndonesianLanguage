@@ -9,4 +9,4 @@ Sebuah perusahaan bernama Zuber yang bergerak dibidang `ride-sharing` merupakan 
 
 | Projek | Deskripsi | modul |
 | ------- | ------- | ------- |
-| [Penggunaan Trip Jasa Taksi](https://github.com/fuadraharjo/PracticumProjects-IndonesianLanguage/blob/fb2e20ce62abe41e33bd79fd273d30bd036aee14/Projek-4%20-%20Penggunaan%20Trip%20Jasa/Analisis%20trip%20pengguna%20jasa%20taksi.ipynb) | Analisis preferensi pengguna taksi dari perusahaan Zuber terhadap beberapa faktor seperti `dropoff location`, `company name` dan uji hipotesis menggunakan *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy* , *requests*, *SQL*, *bs4*|
+| [Penggunaan Trip Jasa Taksi](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-4%20-%20Penggunaan%20Trip%20Jasa%20Taksi/Analisis%20trip%20pengguna%20jasa%20taksi.ipynb) | Analisis preferensi pengguna taksi dari perusahaan Zuber terhadap beberapa faktor seperti `dropoff location`, `company name` dan uji hipotesis menggunakan *scipy*. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *re*, *scipy* , *requests*, *SQL*, *bs4*|
