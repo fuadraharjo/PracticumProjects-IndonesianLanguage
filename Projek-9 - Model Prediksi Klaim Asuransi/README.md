@@ -7,6 +7,6 @@ Sebuah perusahaan `asuransi sosial` fiktif berbasis `syariah` bernama "Sure Tomo
 - Tugas 3: Melakukan prediksi besaran `klaim asuransi` yang mungkin diterima `klien baru` menggunakan model `regresi linier`.
 - Tugas 4: Melindungi `data pribadi` klien tanpa merusak model dari tugas sebelumnya. Sangatlah penting untuk mengembangkan `algoritme transformasi` data yang dapat mencegah penyalahgunaan informasi pribadi klien jika data tersebut jatuh ke tangan yang salah. Hal ini disebut `penyembunyian` data atau `pengaburan data`. Namun, prosedur perlindungan datanya pun perlu diperhatikan agar kualitas *model machine* learning tidak menurun.
 
-| Projek | Deskripsi | modul |
+| Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
 | [Model Prediksi Klaim Asuransi](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-9%20-%20Model%20Prediksi%20Klaim%20Asuransi/Model%20prediksi%20klaim%20asuransi%20pada%20perusahaan%20asuransi%20berbasis%20syariah.ipynb) | Model Prediksi `Klaim Asuransi` pada `Perusahaan Asuransi` Berbasis `Syariah`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |

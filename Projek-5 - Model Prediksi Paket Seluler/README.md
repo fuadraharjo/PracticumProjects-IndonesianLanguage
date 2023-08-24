@@ -13,6 +13,6 @@ Beberapa tujuan dan rumusan masalah dari analisis projek ini:
 - Apakah `model machine learning` yang dipilih bisa memenuhi uji kelayakan (`sanity check`)?
 - Benarkah `model machine learning` yang dipilih bisa menguji sampel data sembarang?
 
-| Projek | Deskripsi | modul |
+| Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
 | [Model Prediksi Paket Seluler](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-5%20-%20Model%20Prediksi%20Paket%20Seluler/Model%20prediksi%20paket%20seluler%20pengguna%20menggunakan%20machine%20learning.ipynb) | Membuat model prediksi klasifikasi untuk menentukan paket seluler yang cocok untuk pelanggan menggunakan library dari *`scikit-learn`*. | *pandas*, *sklearn* |

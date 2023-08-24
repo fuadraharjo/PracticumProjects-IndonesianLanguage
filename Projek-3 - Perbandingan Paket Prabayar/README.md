@@ -12,6 +12,6 @@ Dataset yang dimiliki perusahaan `Megaline` diantaranya berisi `'calls'`, `'inte
 - Benarkah Pendapatan Rata-rata dari Pengguna Paket Prabayar Ultimate dan Surf Berbeda?
 - Benarkah Pendapatan Rata-rata dari Pengguna di Wilayah NY-NJ dengan Wilayah Lain adalah Berbeda?
 
-| Projek | Deskripsi | modul |
+| Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
 | [Perbandingan Paket Prabayar](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-3%20-%20Perbandingan%20Paket%20Prabayar/Studi%20perbandingan%20paket%20prabayar%20surf%20dan%20ultimate.ipynb) | Departemen periklanan perusahaan `Megaline` ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan, sehingga mereka bisa membuat anggaran iklan yang sesuai. Analisis dan Uji Hipotesis dilibatkan dalam projek ini. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |

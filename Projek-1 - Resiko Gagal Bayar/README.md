@@ -8,6 +8,6 @@ Tujuan utama yang dilakukan adalah untuk mengetahui seberapa besar resiko `Gagal
 - Apakah benar bahwa peringkat tertinggi `Gagal Bayar` oleh nasabah dengan tujuan kredit `Keperluan Estate`?
 - Apakah benar bahwa peringkat tertinggi `Gagal Bayar` oleh nasabah dengan nasabah yang `Tidak Mempunyai Anak`?
 
-| Projek | Deskripsi | modul |
+| Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
 | [Analisis Gagal Bayar Nasabah](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-1%20-%20Resiko%20Gagal%20Bayar/Analisis%20resiko%20gagal%20bayar%20-%20bank%20syariah.ipynb) | Mengetahui seberapa besar resiko `Gagal Bayar` nasabah berdasarkan kriteria: `Tingkat Pendapatan`, `Status Keluarga`, `Tujuan Cicilan` dan `Jumlah Anak` untuk menilai calon nasabah. | *pandas*, *numpy* |

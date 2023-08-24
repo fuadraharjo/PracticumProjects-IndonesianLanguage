@@ -12,6 +12,6 @@ Beberapa tujuan dan rumusan masalah untuk projek ini diantaranya:
 - Diantara jenis `model machine learing` berikut: `regresi linier`, `random forest` dan `K-Nearest neighbors`. Manakah yang memberikan hasil terbaik menggunakan teknik skor `cross-validation SMAPE`?
 - Berapakah skor `SMAPE` yang dihasilkan oleh `model terbaik` pada dataset `test`?
 
-| Projek | Deskripsi | modul |
+| Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
 | [Model Prediksi Ekstraksi Bijih Emas](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-8%20-%20Model%20Prediksi%20untuk%20Ekstraksi%20Bijih%20Emas/Model%20prediksi%20untuk%20ekstraksi%20bijih%20emas.ipynb) | Analisis Data Eksplorasi (EDA) dan Prediksi Model Menggunakan Teknik *`Cross-Validation`* dengan Skor `SMAPE` (*Symmetric Mean Absolute Percentage Error*). | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
