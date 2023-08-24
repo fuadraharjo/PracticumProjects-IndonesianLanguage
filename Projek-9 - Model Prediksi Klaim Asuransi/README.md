@@ -1,17 +1,12 @@
-### Model Prediksi Ekstraksi Bijih Emas di Perusahaan Tambang
+### Model Prediksi Klaim Asuransi pada Perusahaan Asuransi Berbasis Syariah
 
-Sebuah perusahaan tambang emas membutuhkan sebuah `model machine learning` untuk meprediksi hasil ekstraksi bijih emas yang berasal dari tambang. Perushaan ini memberikan kita dataset mentah yaitu dataset `train`, `test` dan `full`. Proses ekstraksi dan pemurnian `emas - Au` dari bijih emas melalui beberapa tahapan `proses teknologi` yaitu proses `flotasi`, `pemurnian tahap primer` dan `pemurnian tahap sekunder`. Disetiap proses `stage` akan menghasilkan konsentrat `emas - Au`, beberapa konsentrat lain dan beberapa `residu`.
+Sebuah perusahaan `asuransi sosial` fiktif berbasis `syariah` bernama "Sure Tomorrow" ingin menyelesaikan beberapa masalah dengan bantuan *machine learning*. Perusahaan ini, ingin menciptakan model yang bisa memprediksi apakah calon klien mereka sebagai `penerima manfaat asuransi` atau sebagai `donatur asuransi`. Keuntungan perusahaan diperoleh dari jasa yang ditawarkan kepada `donatur asuransi`, perusahaan ini ingin agar terciptanya keseimbangan antara `penerima manfaat asuransi` dan `donatur asuransi` sehingga operasi perusahaan tetap berjalan. Perusahaan memiliki dataset untuk melatih model berdasarkan informasi pribadi calon klien mereka seperti `gender`, `age`, `income`, `family_members`, dan	`insurance_benefits`. Beberapa tugas yang harus bisa diselesaikan oleh `model` diantaranya:
 
-Model `machine learning` diharapkan bisa menyingkirkan parameter-parameter lain yang tidak menghasilkan keuntungan dan berfokus pada parameter-parameter yang menghasilkan keuntungan. Untuk mengetahui `model machine learning` memiliki kualitas yang baik diperlukan pengunjian dengan teknik `cross-validation` dan menghitung nilai SMAPE `(Symmetry Mean Absolute Percentage Error)`.
-
-Beberapa tujuan dan rumusan masalah untuk projek ini diantaranya:
-- Bagaimana distribusi konsentrat logam `Au`, `Ag` dan `Pb` disetiap proses teknologi (`stage`)-nya?
-- Mengetahui distribusi ukuran partikel umpan (`umpan`) untuk dataset `train` dan `test`.
-- Mengetahui distribusi konsentrat ditiap proses teknologi (`stage`) untuk dataset `train` dan `test`.
-- Seberapa banyak fitur/parameter yang bisa direduksi?
-- Diantara jenis `model machine learing` berikut: `regresi linier`, `random forest` dan `K-Nearest neighbors`. Manakah yang memberikan hasil terbaik menggunakan teknik skor `cross-validation SMAPE`?
-- Berapakah skor `SMAPE` yang dihasilkan oleh `model terbaik` pada dataset `test`?
+- Tugas 1: Menemukan klien yang mirip dengan kriteria klien tertentu. Tugas ini akan memudahkan perusahaan untuk melakukan pemasaran.
+- Tugas 2: Melakukan prediksi apakah klien baru kemungkinan akan mengambil `klaim asuransi` atau sebagai `donatur asuransi`. Apakah prediksi model lebih baik daripada prediksi model *dummy*?
+- Tugas 3: Melakukan prediksi besaran `klaim asuransi` yang mungkin diterima `klien baru` menggunakan model `regresi linier`.
+- Tugas 4: Melindungi `data pribadi` klien tanpa merusak model dari tugas sebelumnya. Sangatlah penting untuk mengembangkan `algoritme transformasi` data yang dapat mencegah penyalahgunaan informasi pribadi klien jika data tersebut jatuh ke tangan yang salah. Hal ini disebut `penyembunyian` data atau `pengaburan data`. Namun, prosedur perlindungan datanya pun perlu diperhatikan agar kualitas *model machine* learning tidak menurun.
 
 | Projek | Deskripsi | modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Ekstraksi Bijih Emas](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-8%20-%20Model%20Prediksi%20untuk%20Ekstraksi%20Bijih%20Emas/Model%20prediksi%20untuk%20ekstraksi%20bijih%20emas.ipynb) | Analisis Data Eksplorasi (EDA) dan Prediksi Model Menggunakan Teknik *`Cross-Validation`* dengan Skor `SMAPE` (*Symmetric Mean Absolute Percentage Error*). | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
+| [Model Prediksi Klaim Asuransi](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-9%20-%20Model%20Prediksi%20Klaim%20Asuransi/Model%20prediksi%20klaim%20asuransi%20pada%20perusahaan%20asuransi%20berbasis%20syariah.ipynb) | Model Prediksi `Klaim Asuransi` pada `Perusahaan Asuransi` Berbasis `Syariah`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
