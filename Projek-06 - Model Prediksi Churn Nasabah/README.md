@@ -15,4 +15,4 @@ Beberapa tujuan dan rumusan masalah dari analisis projek ini:
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Churn Nasabah](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-6%20-%20Model%20Prediksi%20Churn%20Nasabah/Model%20prediksi%20churn%20nasabah%20bank%20menggunakan%20machine%20learning.ipynb) | Model prediksi klasifikasi untuk menentukan nasabah yang akan melakukan `churn` menggunakan modul `scikit-learn` serta penerapan teknik seperti `one hot encoding (OHE)`, `scaling features` dan `balancing target`. | *pandas*, *sklearn*, *matplotlib*, *seaborn* |
+| [Model Prediksi Churn Nasabah](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-06%20-%20Model%20Prediksi%20Churn%20Nasabah/Model%20prediksi%20churn%20nasabah%20bank%20menggunakan%20machine%20learning.ipynb) | Model prediksi klasifikasi untuk menentukan nasabah yang akan melakukan `churn` menggunakan modul `scikit-learn` serta penerapan teknik seperti `one hot encoding (OHE)`, `scaling features` dan `balancing target`. | *pandas*, *sklearn*, *matplotlib*, *seaborn* |

@@ -10,4 +10,4 @@ Tujuan utama yang dilakukan adalah untuk mengetahui seberapa besar resiko `Gagal
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Analisis Gagal Bayar Nasabah](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-1%20-%20Resiko%20Gagal%20Bayar/Analisis%20resiko%20gagal%20bayar%20-%20bank%20syariah.ipynb) | Mengetahui seberapa besar resiko `Gagal Bayar` nasabah berdasarkan kriteria: `Tingkat Pendapatan`, `Status Keluarga`, `Tujuan Cicilan` dan `Jumlah Anak` untuk menilai calon nasabah. | *pandas*, *numpy* |
+| [Analisis Gagal Bayar Nasabah](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-01%20-%20Resiko%20Gagal%20Bayar/Analisis%20resiko%20gagal%20bayar%20-%20bank%20syariah.ipynb) | Mengetahui seberapa besar resiko `Gagal Bayar` nasabah berdasarkan kriteria: `Tingkat Pendapatan`, `Status Keluarga`, `Tujuan Cicilan` dan `Jumlah Anak` untuk menilai calon nasabah. | *pandas*, *numpy* |

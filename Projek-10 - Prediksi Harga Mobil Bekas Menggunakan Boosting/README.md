@@ -14,4 +14,4 @@ Beberapa model terkenal akan kita uji menggunakan dataset yang kita punya untuk 
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Harga Mobil Menggunakan Boosting]() | Model Prediksi `Klaim Asuransi` pada `Perusahaan Asuransi` Berbasis `Syariah` menggunakan Algoritma `K-Nearest Neighbor` dan `Linear Regression`. Pengaburan Data (`Data Protection`) Dilakukan untuk Menjaga Privasi Klien Jika Terjadi Kebocoran Data. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *math*, $\LaTeX$ |
+| [Model Prediksi Harga Mobil Menggunakan Boosting](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-10%20-%20Prediksi%20Harga%20Mobil%20Bekas%20Menggunakan%20Boosting/Prediksi%20harga%20mobil%20bekas%20menggunakan%20teknik%20boosting%20machine%20learning.ipynb) | Perbandingan `Model Boosting` untuk Memprediksi `Harga Mobil Bekas` untuk Mendapatkan Skor `RMSE` dan `Waktu Komputasi` Minimal | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *CatBoost* |

@@ -11,4 +11,4 @@ Dataset yang berasal dari `OilyGiant` memiliki beberapa variabel yang mempengaru
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Lokasi Eksplorasi Sumur OilyGiant](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-7%20-%20Model%20Prediksi%20Lokasi%20Sumur%20Eksplorasi/Model%20prediksi%20lokasi%20eksplorasi%20sumur%20OilyGiant%20menggunakan%20bootstrap%20dan%20machine%20learning.ipynb) | Analisis bisnis untuk mengurangi risiko kerugian dalam pencarian lokasi sumur eksplorasi menggunakan `machine learning` dan teknik `bootstrapping`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
+| [Model Prediksi Lokasi Eksplorasi Sumur OilyGiant](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-07%20-%20Model%20Prediksi%20Lokasi%20Sumur%20Eksplorasi/Model%20prediksi%20lokasi%20eksplorasi%20sumur%20OilyGiant%20menggunakan%20bootstrap%20dan%20machine%20learning.ipynb) | Analisis bisnis untuk mengurangi risiko kerugian dalam pencarian lokasi sumur eksplorasi menggunakan `machine learning` dan teknik `bootstrapping`. | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn* |
