@@ -9,4 +9,4 @@ Sebuah perusahaan taksi bernama `Sweet Lift` telah mengumpulkan data historis (`
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Model Prediksi Seri Waktu pada Perusahaan Taksi]() | Perbandingan `Model Machine Learning` untuk Memprediksi `Jumlah Pesanan` pada Perusahaan Taksi Menggunakan `Dataset Seri waktu` untuk Mendapatkan Skor `RMSE` yang `Tidak Lebih Besar dari 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
+| [Model Prediksi Seri Waktu pada Perusahaan Taksi](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-11%20-%20Model%20Prediksi%20Seri%20Waktu%20pada%20Perusahaan%20Taksi/Model%20prediksi%20seri%20waktu%20untuk%20mengetahui%20jumlah%20pesanan%20perusahaan%20taksi.ipynb) | Perbandingan `Model Machine Learning` untuk Memprediksi `Jumlah Pesanan` pada Perusahaan Taksi Menggunakan `Dataset Seri waktu` untuk Mendapatkan Skor `RMSE` yang `Tidak Lebih Besar dari 48` | *pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *XGBoost*, *time*, *LightGBM*, *statsmodels* |
