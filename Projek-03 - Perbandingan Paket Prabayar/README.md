@@ -14,4 +14,4 @@ Dataset yang dimiliki perusahaan `Megaline` diantaranya berisi `'calls'`, `'inte
 
 | Projek | Deskripsi | Modul |
 | ------- | ------- | ------- |
-| [Perbandingan Paket Prabayar](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-03%20-%20Perbandingan%20Paket%20Prabayar/Studi%20perbandingan%20paket%20prabayar%20surf%20dan%20ultimate.ipynb) | Departemen periklanan perusahaan `Megaline` ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan, sehingga mereka bisa membuat anggaran iklan yang sesuai. Analisis dan Uji Hipotesis dilibatkan dalam projek ini. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |
+| [Perbandingan Paket Prabayar](https://github.com/fuadraharjo/TripleTen_IND/blob/main/Projek-03%20-%20Perbandingan%20Paket%20Prabayar/Studi%20perbandingan%20paket%20prabayar%20surf%20dan%20ultimate.ipynb) | Departemen periklanan perusahaan `megaline` ingin mengetahui paket prabayar mana yang menghasilkan lebih banyak pendapatan, sehingga mereka bisa membuat anggaran iklan yang sesuai. Analisis dan uji hipotesis dilibatkan dalam projek ini. | *pandas*, *numpy*, *matplotlib*, *seaborn*, *math*, *scipy* |
